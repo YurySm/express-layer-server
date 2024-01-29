@@ -1,3 +1,3 @@
-сервер expres, 
+сервер express, 
 слаеная архитектура
 typescript
