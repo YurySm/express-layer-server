@@ -1,6 +1,10 @@
-/node_modules
-/dist
-./layerAr.bmp
 /.idea
 /.vscode
+
+/node_modules
+/dist
+
+layerAr.bmp
+
+
 
