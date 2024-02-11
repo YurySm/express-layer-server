@@ -5,6 +5,13 @@
 /dist
 
 layerAr.bmp
+IOC.bmp
+detail.bmp
+DI-IoC.bmp
+decorators.bmp
+meta.bmp
 
+meta.ts
+decorators.ts
 
 
