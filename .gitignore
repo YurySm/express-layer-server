@@ -1,8 +1,13 @@
 /.idea
-/.vscode
+#/.vscode
+/.clinic
+/.env
 
 /node_modules
 /dist
+
+/prisma/dev.db
+/prisma/dev.db-journal
 
 layerAr.bmp
 IOC.bmp
